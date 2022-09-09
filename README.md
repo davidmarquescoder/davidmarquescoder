@@ -1,6 +1,6 @@
 ## Olá mundo!, me  chamo David! 👋
 
-- 🔭 Atualmente estou estudando bastante python
+- 🔭 Atualmente estou muito focado na liguagem python
 - 🛠 Cursando análise e desenvolvimento de sistemas
 - 📫 Contate-me no e-mail: davidmarques99@hotmail.com
 - 😄 Pronouns: ele/dele
