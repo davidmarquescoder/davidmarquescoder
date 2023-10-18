@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou muito focado na liguagem python
 - 🛠 Cursando análise e desenvolvimento de sistemas
 - 📫 Contate-me no e-mail: davidmarques99@hotmail.com
--->
+
 <div align="center">
   <a href="https://github.com/davidmarquescoder">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=davidmarquescoder&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
