@@ -3,7 +3,6 @@
 - 🔭 Atualmente estou muito focado na liguagem python
 - 🛠 Cursando análise e desenvolvimento de sistemas
 - 📫 Contate-me no e-mail: davidmarques99@hotmail.com
-- 😄 Pronouns: ele/dele
 -->
 <div align="center">
   <a href="https://github.com/davidmarquescoder">
