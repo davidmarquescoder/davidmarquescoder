@@ -1,4 +1,4 @@
-## Olá mundo!, me  chamo David! 👋
+## Hi there, I'm David Marques 👋
 
 - 🔭 Atualmente estou muito focado na liguagem python
 - 🛠 Cursando análise e desenvolvimento de sistemas
