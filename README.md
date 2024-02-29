@@ -1,6 +1,6 @@
 ## Hi there, I'm David Marques 👋
 
-- 🔭 Atualmente estou muito focado na liguagem python
+- 🔭 Atualmente estou muito focado no back-end.
 - 🛠 Cursando análise e desenvolvimento de sistemas
 - 📫 Contate-me no e-mail: davidmarques99@hotmail.com
 
