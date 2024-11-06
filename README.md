@@ -12,13 +12,124 @@
   </a>
 </div>
     
-<h3 align="center">🛠️ Technologies and Tools:</h3>
+<h3 align="center">🛠️ Tech Stack:</h3>
 
 <div align="center">
-  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;&nbsp;&nbsp;
-  <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> &nbsp;&nbsp;&nbsp;
-  <img alt="Vue.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> &nbsp;&nbsp;&nbsp;
-  <img alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;&nbsp;&nbsp;
-  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;&nbsp;&nbsp;
-  <img alt="Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">&nbsp;&nbsp;&nbsp;
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <a href="#html5">
+          <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
+        </a>
+        <br>Html5
+      </td>   
+      <td align="center" width="96">
+        <a href="#css3">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
+        </a>
+        <br>CSS3
+      </td>
+      <td align="center" width="96">
+        <a href="#js">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+        </a>
+        <br>Javascript
+      </td>
+      <td align="center" width="96">
+        <a href="#typescrit" >
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="Typescript" />
+        </a>
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <a href="#vuejs">
+          <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
+        </a>
+        <br>Vue JS
+      </td>
+      <td align="center" width="96">
+        <a href="#vuetify">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" width="48" height="48" alt="Vuetify" />
+        </a>
+        <br>Vuetify
+      </td>   
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="#bootstrap">
+          <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+        </a>
+        <br>Bootstrap
+      </td>
+      <td align="center" width="96">
+        <a href="#tailwind">
+          <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" width="48" height="48" alt="Vuejs" />
+        </a>
+        <br>Tailwind CSS
+      </td>
+      <td align="center" width="96">
+        <a href="#laravel">
+          <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
+        </a>
+        <br>Laravel
+      </td>
+      <td align="center" width="96">
+        <a href="#nodejs">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="48" height="48" alt="Nodejs" />
+        </a>
+        <br>NodeJS
+      </td>
+      <td align="center" width="96">
+        <a href="#django">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
+        </a>
+        <br>Django
+      </td>
+      <td align="center" width="96">
+        <a href="#python">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        </a>
+        <br>Python
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="#docker">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+        </a>
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <a href="#postgresql">
+          <img src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg" width="48" height="48" alt="PostgreSQL" />
+        </a>
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="96">
+        <a href="#mysql">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        </a>
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <a href="#mongo">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+        </a>
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <a href="#git" >
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+        </a>
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <a href="#postman" >
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
+        </a>
+        <br>Postman
+      </td>
+    </tr>
+  </table>
 </div>
+
