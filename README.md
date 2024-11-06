@@ -12,7 +12,7 @@
   </a>
 </div>
     
-<h3 align="center">🛠️ Tech Stack:</h3>
+<h3 align="center">🛠️ TECH STACK</h3>
 
 <div align="center">
   <table align="center">
@@ -81,7 +81,7 @@
       </td>
       <td align="center" width="96">
         <a href="#django">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
+          <img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="48" height="48" alt="Django" />
         </a>
         <br>Django
       </td>
