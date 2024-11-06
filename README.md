@@ -1,22 +1,24 @@
-## Hi there, I'm David 👋
-
-- 💻 FullStack Developer
-- 🔭 I'm currently very focused on Laravel and Vue.
-- 📫 Contact me at: davidmarques.professional@gmail.com
+<h1 align="center">Hi there, I'm David 👋</h1>
+<p align="center">
+  💻 Full Stack Developer <br>
+  🔭 I'm currently very focused on Laravel and VueJS. <br>
+  📫 Contact me at: <a href="mailto:davidmarques.professional@gmail.com">davidmarques.professional@gmail.com</a>
+</p>
 
 <div align="center">
   <a href="https://github.com/davidmarquescoder">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=davidmarquescoder&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmarquescoder&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidmarquescoder&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmarquescoder&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Rafa-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Rafa-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-</div>
+    
+<h3 align="center">🛠️ Technologies and Tools:</h3>
 
+<div align="center">
+  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;&nbsp;&nbsp;
+  <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> &nbsp;&nbsp;&nbsp;
+  <img alt="Vue.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> &nbsp;&nbsp;&nbsp;
+  <img alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;&nbsp;&nbsp;
+  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;&nbsp;&nbsp;
+  <img alt="Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">&nbsp;&nbsp;&nbsp;
+</div>
