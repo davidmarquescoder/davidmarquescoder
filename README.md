@@ -21,7 +21,7 @@
         <a href="#html5">
           <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
         </a>
-        <br>Html5
+        <br>HTML5
       </td>   
       <td align="center" width="96">
         <a href="#css3">
@@ -39,13 +39,13 @@
         <a href="#typescrit" >
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="Typescript" />
         </a>
-        <br>TypeScript
+        <br>Typescript
       </td>
       <td align="center" width="96">
         <a href="#vuejs">
           <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
         </a>
-        <br>Vue JS
+        <br>VueJS
       </td>
       <td align="center" width="96">
         <a href="#vuetify">
@@ -65,7 +65,7 @@
         <a href="#tailwind">
           <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" width="48" height="48" alt="Vuejs" />
         </a>
-        <br>Tailwind CSS
+        <br>Tailwind
       </td>
       <td align="center" width="96">
         <a href="#laravel">
@@ -118,16 +118,16 @@
         <br>MongoDB
       </td>
       <td align="center" width="96">
-        <a href="#git" >
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-        </a>
-        <br>Git
-      </td>
-      <td align="center" width="96">
         <a href="#postman" >
           <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
         </a>
         <br>Postman
+      </td>
+      <td align="center" width="96">
+        <a href="#git" >
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+        </a>
+        <br>Git
       </td>
     </tr>
   </table>
