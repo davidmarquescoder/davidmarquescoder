@@ -1,8 +1,8 @@
-## Hi there, I'm David Marques 👋
+## Hi there, I'm David 👋
 
-- 🔭 Atualmente estou muito focado no back-end.
-- 🛠 Cursando análise e desenvolvimento de sistemas
-- 📫 Contate-me no e-mail: davidmarques99@hotmail.com
+- 💻 FullStack Developer
+- 🔭 I'm currently very focused on Laravel and Vue.
+- 📫 Contact me at: davidmarques.professional@gmail.com
 
 <div align="center">
   <a href="https://github.com/davidmarquescoder">
